@@ -13,3 +13,13 @@ C:\Users\Inger.Magnus-HP\source\repos\Assignment1\Assignment1\obj\Debug\Assignme
 \\psf\Home\Documents\MyDocuments\Skola\MAH\C-Sharp-VT-19\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
 \\psf\Home\Documents\MyDocuments\Skola\MAH\C-Sharp-VT-19\Assignment1\Assignment1\obj\Debug\Assignment1.exe
 \\psf\Home\Documents\MyDocuments\Skola\MAH\C-Sharp-VT-19\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+Z:\Documents\MyDocuments\Skola\MAH\C-Sharp-VT-19\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+Z:\Documents\MyDocuments\Skola\MAH\C-Sharp-VT-19\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+Z:\Documents\MyDocuments\Skola\MAH\C-Sharp-VT-19\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+Z:\Documents\MyDocuments\Skola\MAH\C-Sharp-VT-19\Assignment1\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+Z:\Documents\MyDocuments\Skola\MAH\C-Sharp-VT-19\Assignment1\Assignment1\obj\Debug\Assignment1.Form1.resources
+Z:\Documents\MyDocuments\Skola\MAH\C-Sharp-VT-19\Assignment1\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+Z:\Documents\MyDocuments\Skola\MAH\C-Sharp-VT-19\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.cache
+Z:\Documents\MyDocuments\Skola\MAH\C-Sharp-VT-19\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+Z:\Documents\MyDocuments\Skola\MAH\C-Sharp-VT-19\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+Z:\Documents\MyDocuments\Skola\MAH\C-Sharp-VT-19\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
