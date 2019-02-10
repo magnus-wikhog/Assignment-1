@@ -1,0 +1,15 @@
+C:\Users\Inger.Magnus-HP\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\Users\Inger.Magnus-HP\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.Form1.resources
+C:\Users\Inger.Magnus-HP\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+C:\Users\Inger.Magnus-HP\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.cache
+C:\Users\Inger.Magnus-HP\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+\\psf\Home\Documents\MyDocuments\Skola\MAH\C-Sharp-VT-19\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+\\psf\Home\Documents\MyDocuments\Skola\MAH\C-Sharp-VT-19\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+\\psf\Home\Documents\MyDocuments\Skola\MAH\C-Sharp-VT-19\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+\\psf\Home\Documents\MyDocuments\Skola\MAH\C-Sharp-VT-19\Assignment1\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+\\psf\Home\Documents\MyDocuments\Skola\MAH\C-Sharp-VT-19\Assignment1\Assignment1\obj\Debug\Assignment1.Form1.resources
+\\psf\Home\Documents\MyDocuments\Skola\MAH\C-Sharp-VT-19\Assignment1\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+\\psf\Home\Documents\MyDocuments\Skola\MAH\C-Sharp-VT-19\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.cache
+\\psf\Home\Documents\MyDocuments\Skola\MAH\C-Sharp-VT-19\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+\\psf\Home\Documents\MyDocuments\Skola\MAH\C-Sharp-VT-19\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+\\psf\Home\Documents\MyDocuments\Skola\MAH\C-Sharp-VT-19\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
